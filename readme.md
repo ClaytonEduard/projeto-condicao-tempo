@@ -56,3 +56,4 @@ Certifique-se de obter uma chave de API válida do OpenWeatherMap em [https://op
 </code></div></div></pre>
 
 ## Demostração
+https://www.loom.com/share/ef0bf97e71b241cf8683bbdfb1feed91?sid=4f7df187-33d1-4792-bcf0-002ec5acc6cb
